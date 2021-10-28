@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.no-li{
+  list-style: none;
+}
+.no-a{
+  text-decoration: none;
+  color: grey;
+}
+
+a:hover{
+  color: darkslategray;
+}
+
