@@ -1,50 +1,7 @@
-.no-li{
-  list-style: none;
-}
-.no-a{
-  text-decoration: none;
-  color: grey;
-}
-
-a:hover{
-  color: darkslategray;
-}
-
 body{
   background-color: #E1E1E1;
 }
 
-.mainCont{
-  background-color: white ;
-  border-radius: 0.5em;
-  padding: 1.5em;
-}
 
-.btn-saber{
-  box-sizing: border-box;
-  border-radius: 0.6em;
-  cursor: pointer;
-  display: flex;
-  font-weight: 400;
-  line-height: 1;
-  margin: 10px;
-  padding: 1.2em 2em;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
-  width: 230px;
-}
 
-.btn:hover, .btn:focus {
-  color: #fff;
-  outline: 0;
-}
-.saber {
-  border-color: #3498db;
-  color: #fff;
-  box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
-  -webkit-transition: all 150ms ease-in-out;
-  transition: all 150ms ease-in-out;
-}
-.btn-saber:hover {
-  box-shadow: 0 0 1px 0 #3498db inset, 0 0 1px 1px #3498db;
-}
+
